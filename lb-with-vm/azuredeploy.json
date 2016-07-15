@@ -26,6 +26,12 @@
       "metadata": {
         "description": "Size of the VM"
       }
+    },
+    "sshKeyData": {
+      "type": "string",
+      "metadata": {
+        "Description": "Public key for SSH authentication"
+      }
     }
   },
   "variables": {
