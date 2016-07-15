@@ -10,12 +10,14 @@
     },
     "adminUsername": {
       "type": "string",
+      "defaultValue": "realbot",
       "metadata": {
         "description": "Admin username"
       }
     },
     "dnsNameforLBIP": {
       "type": "string",
+      "defaultValue": "realbuntu",
       "metadata": {
         "description": "DNS for Load Balancer IP"
       }
