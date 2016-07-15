@@ -14,12 +14,6 @@
         "description": "Admin username"
       }
     },
-    "adminPassword": {
-      "type": "securestring",
-      "metadata": {
-        "description": "Admin password"
-      }
-    },
     "dnsNameforLBIP": {
       "type": "string",
       "metadata": {
