@@ -46,7 +46,7 @@
     "nic1NamePrefix": "nic1",
     "imagePublisher": "Canonical",
     "imageOffer": "UbuntuServer",
-    "imageSKU": "14.04.2-LTS",
+    "imageSKU": "14.04.4-LTS",
     "vnetName": "myVNET",
     "publicIPAddressName": "myPublicIP",
     "lbName": "myLB",
