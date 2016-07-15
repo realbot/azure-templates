@@ -50,7 +50,7 @@
     "vnetName": "myVNET",
     "publicIPAddressName": "myPublicIP",
     "lbName": "myLB",
-    "vmNamePrefix": "realUbuntu",
+    "vmNamePrefix": "realbuntu",
     "vnetID": "[resourceId('Microsoft.Network/virtualNetworks',variables('vnetName'))]",
     "subnetRef": "[concat(variables('vnetID'),'/subnets/',variables('subnetName'))]",
     "publicIPAddressID": "[resourceId('Microsoft.Network/publicIPAddresses',variables('publicIPAddressName'))]",
