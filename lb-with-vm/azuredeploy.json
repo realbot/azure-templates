@@ -24,9 +24,9 @@
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_D2",
+      "defaultValue": "Standard_DS3_v2",
       "metadata": {
-        "description": "Size of the VM"
+        "description": "Size of the VM (default 4 core / 14 Gb)"
       }
     },
     "sshKeyData": {
